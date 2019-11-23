@@ -16,7 +16,7 @@
 title: "Lowlife And High Tech"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You don't know who am I, so I can say whatever I want.
+  "If liberty means anything at all, it means the right to tell people what they do not want to hear."
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
